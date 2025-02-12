@@ -127,7 +127,7 @@ This course provides an in-depth understanding of **Natural Language Processing 
 ---
 
 ## 📬 Contact & Support
-For any questions, reach out to **[Your Contact Information]** or check out our discussion forum!  
+For any questions, reach out to **[Nikhil Jerin]** or check out our discussion forum!  
 
 ---
 
